@@ -1,3 +1,7 @@
+![MTECH_GPIO](logo.png)
+
+---
+
 # MTECH_GPIO
 
 A minimal educational GPIO wrapper for Raspberry Pi 3-5, designed for teaching Embedded Systems at Montana Tech.
